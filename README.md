@@ -1,7 +1,7 @@
 ### Hi there! I'm Bruno Brilhante ⭐
 
 - 🔭 I’m currently working at Accenture as Junior Analyst in Innovation Technology
-- 🌱 I’m currently learning Spring Boot and JavaScript
+- 🌱 I’m currently learning Spring Boot, ReactJS and JavaScript
 - 😄 Pronouns: ele/dele
 
 <div align="center">
