@@ -1,6 +1,6 @@
 ### Hi there! I'm Bruno Brilhante ⭐
 
-- 🔭 I’m currently working at Accenture as Junior Analyst in Innovation Technology
+- 🔭 I’m currently working at Accenture as Technology R&D Analyst in Open Innovation
 - 🌱 I’m currently learning Spring Boot, ReactJS and JavaScript
 - 😄 Pronouns: ele/dele
 
