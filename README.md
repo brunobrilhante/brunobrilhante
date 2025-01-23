@@ -1,6 +1,6 @@
 ### Hi there! I'm Bruno Brilhante ⭐
 
-- 🌱 I’m currently learning Spring Boot, ReactJS and NodeJS/JavaScript
+- 🌱 I’m currently learning Spring Boot, Angular and NodeJS/JavaScript
 - 😄 Pronouns: ele/dele
 
 <div align="center">
